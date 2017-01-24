@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "b1a28ae9089c77de3482d7caae2da4f2"
+build_time: [538598796, 754528000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [538598737, 0]

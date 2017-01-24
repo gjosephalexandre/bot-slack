@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8c59b5b271acf022faf51538dcb94ef9"
+build_time: [538598800, 778701000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": [538598636, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Random/Random.swift": [538598636, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": [538598636, 0]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "db4bc944ae917e4348b82ea6bcbb4a56"
+build_time: [538598788, 571208000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/Socks/Socks.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/Socks/SynchronousTCPServer.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/Socks/SynchronousUDPServer.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/Socks/TCPClient.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/Socks/UDPClient.swift": [538598718, 0]

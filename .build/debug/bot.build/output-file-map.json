@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/bot.build/master.swiftdeps"
+  },
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Sources/main.swift": {
+    "dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/bot.build/main.d",
+    "object": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/bot.build/main.swift.o",
+    "swiftmodule": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/bot.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/bot.build/main.swiftdeps"
+  }
+}

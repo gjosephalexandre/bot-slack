@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5c22bdcbd97153e15588ed8459c9ec1c"
+build_time: [538598803, 490574000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": [538598636, 0]

@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c614fa2635214ad335afeb0b6d16bb2e"
+build_time: [538598784, 422094000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Address+C.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Address.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Bytes.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Conversions.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Error.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/FDSet.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/InternetSocket.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Pipe.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Select.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Socket.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/SocketOptions+Deprecated.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/SocketOptions.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/TCPSocket.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/Types.swift": [538598718, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Socks-1.2.4/Sources/SocksCore/UDPSocket.swift": [538598718, 0]

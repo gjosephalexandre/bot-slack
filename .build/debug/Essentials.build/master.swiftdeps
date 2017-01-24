@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8f9363221aaebbfffeb92b40169941dd"
+build_time: [538598798, 454938000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [538598636, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [538598636, 0]

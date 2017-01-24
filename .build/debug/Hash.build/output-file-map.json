@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/master.swiftdeps"
+  },
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Hash/Hash.swift": {
+    "dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Hash.d",
+    "object": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Hash.swift.o",
+    "swiftmodule": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Hash~partial.swiftmodule",
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Hash.swiftdeps"
+  },
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Hash/Method.swift": {
+    "dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Method.d",
+    "object": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Method.swift.o",
+    "swiftmodule": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Method~partial.swiftmodule",
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Method.swiftdeps"
+  },
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Crypto-1.0.1/Sources/Hash/Random.swift": {
+    "dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Random.d",
+    "object": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Random.swift.o",
+    "swiftmodule": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/.build/debug/Hash.build/Random.swiftdeps"
+  }
+}

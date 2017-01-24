@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0a84b61aa078813220fb1140c266b995"
+build_time: [538598805, 89418000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/PercentDecoding.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Model/URI+Byte.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Model/URI+Modification.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Model/URI+Ports.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Model/URI+String.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Model/URI.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+Components.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+Public.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+SubComponents.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/URI/Parser/Parser.swift": [538598692, 0]

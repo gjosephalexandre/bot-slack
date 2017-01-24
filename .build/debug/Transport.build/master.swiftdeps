@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c87ab283c663e1140184a7ca0d98126b"
+build_time: [538598805, 89523000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/FoundationStream.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/Socks+Stream.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/Stream.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/StreamBuffer.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/Watchable.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/TransferProtocols/TransferProtocols.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/ProgramStream/ClientStream.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/ProgramStream/ProgramStream.swift": [538598692, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Engine-1.3.6/Sources/Transport/Streams/ProgramStream/ServerStream.swift": [538598692, 0]

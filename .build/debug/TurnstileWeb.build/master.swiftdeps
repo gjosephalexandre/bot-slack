@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2196c42df0f0c304f55ea7012349335f"
+build_time: [538598798, 179551000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/AuthorizationCode.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Facebook.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/Google.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Error.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/OAuth2Token.swift": [538598739, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/URLSession+Turnstile.swift": [538598737, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Turnstile-1.0.3/Sources/TurnstileWeb/WebMemoryRealm.swift": [538598739, 0]

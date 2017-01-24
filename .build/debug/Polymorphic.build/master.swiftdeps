@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "dff8e76c8f0f183e2141c8c9244e48d0"
+build_time: [538598784, 422095000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [538598685, 0]
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [538598685, 0]

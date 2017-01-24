@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0d88c551d3e31b6b3f7ce7a798be4e90"
+build_time: [538598827, 505457000]
+inputs:
+  "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Sources/main.swift": [538598476, 0]
