@@ -1,5 +1,5 @@
 module CLibreSSL {
-    umbrella header "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+    umbrella header "/Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot-slack/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
     link "CLibreSSL"
     export *
 }

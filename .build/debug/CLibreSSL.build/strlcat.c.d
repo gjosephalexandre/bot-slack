@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/strlcat.c \
+  /Users/tipaul/Sites/PlatypusAgency/XebiaFormation/bot-slack/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/strlcat.c \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/usr/include/dispatch/module.modulemap \
